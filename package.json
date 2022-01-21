@@ -7,6 +7,11 @@
         "dist",
         "src"
     ],
+    "repository": {
+        "url":"https://github.com/ivantabera/product-card-gitb",
+        "type": "git"
+    },
+    "homepage": "https://github.com/ivantabera/product-card-gitb",
     "engines": {
         "node": ">=10"
     },
@@ -59,5 +64,11 @@
         "tsdx": "^0.14.1",
         "tslib": "^2.3.1",
         "typescript": "^3.9.10"
-    }
+    },
+    "keywords": [
+        "product",
+        "card",
+        "ivan",
+        "tabera"
+    ]
 }
